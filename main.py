@@ -28,3 +28,4 @@ while True:
         light.set_pixel_color(7, light.rgb(128,0,255))
         light.set_pixel_color(8, light.rgb(255,0,128))
         light.set_pixel_color(9, light.rgb(255,0,0))
+        
